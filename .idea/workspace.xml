@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7af0280f-ce74-4e8e-bd00-9ad264cfbc5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Selenium_test_fb_messenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_send_fb_messege.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_send_fb_messege.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_send_fb_messege.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements" beforeDir="false" afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
