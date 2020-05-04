@@ -4,13 +4,13 @@ from time import sleep
 
 
 def facebook_login():
-    ### CHROME DRIVER LOCATION ###
+    ### CHROME DRIVER WINDOWS LOCATION ###
     Chrome_driver = webdriver.Chrome(executable_path='C:\Temp\chromedriver.exe')
     ### OPEN TICTUK DEMO URL ###
     Chrome_driver.get('https://www.facebook.com/tictukDemo/')
     ### ENTER FACEBOOK CREDENTIALS ###
-    Chrome_driver.find_element_by_id("email").send_keys('ofirtako@gmail.com')
-    Chrome_driver.find_element_by_id("pass").send_keys('bananasplit1987')
+    Chrome_driver.find_element_by_id("email").send_keys('**********@********')
+    Chrome_driver.find_element_by_id("pass").send_keys('*********')
     Chrome_driver.find_element_by_id("u_0_3").click()
     sleep(20)
     ### CLICK ON SEND MESSEGE ##
@@ -21,5 +21,3 @@ def facebook_login():
     sleep(10)
     ### CLOSE CHROME ###
     Chrome_driver.close()
-
-facebook_login()
