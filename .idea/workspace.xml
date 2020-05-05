@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7af0280f-ce74-4e8e-bd00-9ad264cfbc5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Selenium_send_fb_messege.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_send_fb_messege.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements" beforeDir="false" afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Selenium_send_fb_messege">
+    <configuration name="Selenium_send_fb_messege" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Selenium_test_fb_messenger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_send_fb_messege.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Selenium_test_fb_messenger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium_test_fb_messenger" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Selenium_send_fb_messege" />
         <item itemvalue="Python.Selenium_test_fb_messenger" />
       </list>
     </recent_temporary>
